@@ -12,3 +12,6 @@ https://sempreupdate.com.br/kodi-suporte-ao-netflix/
 sudo apt install python3-pip
 https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
 
+https://www.addictivetips.com/ubuntu-linux-tips/install-kodi-18-on-linux/
+
+
