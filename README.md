@@ -9,3 +9,6 @@ https://maker-tutorials.com/en/auto-start-midori-browser-in-fullscreen-kiosk-mod
 
 https://sempreupdate.com.br/kodi-suporte-ao-netflix/
 
+sudo apt install python3-pip
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
+
