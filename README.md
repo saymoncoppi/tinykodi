@@ -14,4 +14,7 @@ https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
 
 https://www.addictivetips.com/ubuntu-linux-tips/install-kodi-18-on-linux/
 
-
+INSTALL DEBIAN-KEIRING
+DEPOIS ADICIONA O SOURCE
+ACERTA A CHAVE GPG
+gpg --keyring /usr/share/keyrings/debian-keyring.gpg -a --export CHAVE_AQUI | apt-key add - 
